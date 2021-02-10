@@ -1,4 +1,4 @@
-package com.sihaloho.retrofitsetup
+package com.sihaloho.retrofitsetup.data
 
 data class Restaurant(
     val id : String,
